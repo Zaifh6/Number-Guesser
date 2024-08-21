@@ -15,8 +15,9 @@ Use the `README.md` to get started and dive into the code!
 
 ### Built With
 
-* [![Python][Python-shield]][Python-url]
-* [![Tkinter][Tkinter-shield]][Tkinter-url]
+* **Python** – A powerful programming language used for developing the core logic.
+* **Tkinter** – The standard GUI toolkit for Python, used to create the graphical interface.
+
 
 <!-- GETTING STARTED -->
 ## Getting Started

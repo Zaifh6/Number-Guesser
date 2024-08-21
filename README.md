@@ -2,8 +2,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Number Guesser Screenshot][product-screenshot]](https://example.com)
-
 The Number Guesser is a fun and interactive game where users try to guess a randomly generated number. Built using Python and Tkinter, this project demonstrates how to create a simple graphical user interface (GUI) for a game application.
 
 ### Features

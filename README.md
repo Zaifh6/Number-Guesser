@@ -33,9 +33,12 @@ Ensure you have Python installed. You can download it from [python.org](https://
    ```sh
    git clone https://github.com/your_username/number-guesser.git
 2. Navigate to the project directory
+   ```sh
    cd number-guesser
-3. Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-4. Run the main script to start the game
-python number_guesser.py
+4. Create a virtual environment
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+5. Run the main script to start the game
+   ```sh
+   python number_guesser.py
